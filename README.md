@@ -1,6 +1,6 @@
 # git-introduced
 
-This is a repo for **Git It: Intro to Git and Github** an introductory-level workshop on Git and Github, originally created by Nicole Cote as a Graduate Center Digital Initiatives ([GCDI](https://gcdi.commons.gc.cuny.edu/)) Fall 2022 workshop.
+This is a repo for "Git It: Intro to Git and Github" an introductory-level workshop on Git and Github, originally created by Nicole Cote as a Graduate Center Digital Initiatives ([GCDI](https://gcdi.commons.gc.cuny.edu/)) Fall 2022 workshop.
 
 ## Workshop Details
 
