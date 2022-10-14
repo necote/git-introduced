@@ -20,7 +20,8 @@ Friday, October 14, 2022 @ 3:00 pm - 4:30 pm ET
 ### Materials and Resources
 
 This repo includes:
-- workshop slides: TBD
+- Workshop slides: TBD
+- Markdown example: TBD
 
 
 
