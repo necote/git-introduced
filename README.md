@@ -1,6 +1,10 @@
 # git-introduced
 
-This is a repo for *Git It: Intro to Git and Github* an introductory-level workshop on Git and Github, originally created by Nicole Cote as a Graduate Center Digital Initiatives ([GCDI](https://gcdi.commons.gc.cuny.edu/)) Fall 2022 workshop.
+This is a repo for *Git It: Intro to Git and Github* an
+introductory-level workshop for graduate students on Git and Github, originally created
+by Nicole Cote as a Graduate Center Digital Initiatives Fall 2022
+workshop. It was most recently run during the 2024 MA/MS
+Summer Institute at the Graduate Center. 
 
 ## Workshop Details
 
@@ -10,11 +14,10 @@ Git and GitHub are powerful tools for collaborative and individual projects. Git
 Note: If you would like to follow along with the applied part of the workshop, before attending you are encouraged to: 
 - Create a free account on [GitHub](https://github.com/)
 - Download [Git](https://git-scm.com/downloads) for Mac or Windows
-- Download a free text editor (i.e. [Sublime](https://www.sublimetext.com/) or [Visual Studio Code](https://code.visualstudio.com/)) 
+- Download a free text editor (i.e. [Visual Studio
+  Code](https://code.visualstudio.com/) or [Sublime](https://www.sublimetext.com/)) 
 
-This workshop was held online with Zoom. Details circulated to all registered attendees ahead of the workshop. 
-
-Friday, October 14, 2022 @ 3:00 pm - 4:30 pm ET
+Details circulated to all registered attendees ahead of the workshop. 
 
 ### Materials and Resources
 
